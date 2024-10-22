@@ -1,6 +1,6 @@
 ### Public Cloud Architecture Labs
 
-Public Cloud 아키텍쳐를 설계하고 직접 구축하는 연스장
+Public Cloud 아키텍쳐를 설계하고 직접 구축하는 연습장
 
 ##### setup
 `tf_setup.sh`를 사용하면  main.tf, variables.tf, outputs.tf 파일이 있는 모듈로 구성된 테라폼 파일을 만들어 줍니다.
